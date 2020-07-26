@@ -63,9 +63,9 @@ namespace PI_RFID_Arduino_WindowsFormsApp.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Arduino {
+        internal static System.Drawing.Bitmap NodeMCU {
             get {
-                object obj = ResourceManager.GetObject("Arduino", resourceCulture);
+                object obj = ResourceManager.GetObject("NodeMCU", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

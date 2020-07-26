@@ -163,7 +163,7 @@
             // pbConnectArduino
             // 
             this.pbConnectArduino.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pbConnectArduino.Image = global::PI_RFID_Arduino_WindowsFormsApp.Properties.Resources.Arduino;
+            this.pbConnectArduino.Image = global::PI_RFID_Arduino_WindowsFormsApp.Properties.Resources.NodeMCU;
             this.pbConnectArduino.InitialImage = null;
             this.pbConnectArduino.Location = new System.Drawing.Point(120, 63);
             this.pbConnectArduino.Margin = new System.Windows.Forms.Padding(0);
